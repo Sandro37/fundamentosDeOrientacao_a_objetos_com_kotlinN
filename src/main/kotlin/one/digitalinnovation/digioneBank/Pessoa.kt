@@ -2,7 +2,6 @@ package one.digitalinnovation.digioneBank
 
 class Pessoa {
     var nome:String = "Jether"
-
     var cpf:String = "123.123.123-11"
     private  set
 
