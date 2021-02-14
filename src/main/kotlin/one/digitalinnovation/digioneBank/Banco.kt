@@ -1,6 +1,6 @@
 package one.digitalinnovation.digioneBank
 
-data class Banco(
+data class  Banco (
     val nome: String,
     val numero: Int
 ){
